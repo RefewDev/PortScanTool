@@ -12,7 +12,7 @@ With "https://www.windowscentral.com/how-install-bash-shell-command-line-windows
 Have you install nmap?
 1) Yes
 2) No
-If you type 2,there will be an automatic download
+If you type 2,there will be an automatic download and after will start the scan while if you type 1, will start the scan
 ```
 
 # WARNING 
