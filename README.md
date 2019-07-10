@@ -1,7 +1,7 @@
 # PortScanTool ツ
 
 Scan with Nmap | Shell Tool
-`Is a shell tool fast and easy, born for scan of servers`
+Is a shell tool fast and easy, born for scan of servers
 
 « If you use a windows OS, install shell(bash) command 
 With "https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10" »
